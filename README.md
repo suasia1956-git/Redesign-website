@@ -25,4 +25,4 @@ The goal of this project was to redesign the Uber website with a cleaner and mor
 
 ## Prototype
 
-[View the Uber Website Redesign]([PASTE_YOUR_FIGMA_LINK_HERE](https://www.figma.com/proto/VeL3kP2r0u9O3aXJk5khFh/Study-mate---Mobile-App-Wireframe?node-id=30-5&t=o4jU3ksnBNRCaz6T-0&scaling=scale-down&content-scaling=fixed&page-id=8%3A106))
+[View the Uber Website Redesign](https://www.figma.com/design/VeL3kP2r0u9O3aXJk5khFh/Study-mate---Mobile-App-Wireframe?node-id=8-106&t=o4jU3ksnBNRCaz6T-1)
